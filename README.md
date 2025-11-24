@@ -1,7 +1,7 @@
 # EX 04 Places Around Me
 ## Date: 23.11.25
-## Developed by : AKASH G
-## Register No. : 212224100004
+## Developed by : Kamlesh Y
+## Register No. : 212224100029
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -179,7 +179,7 @@ Execute the programs and publish them.
 
 <img width="1440" height="900" alt="Screenshot 2025-11-23 at 10 33 43 PM" src="https://github.com/user-attachments/assets/41739050-f599-4db4-86ce-1d34137d0e1a" />
 
-
+<img width="1853" height="993" alt="image" src="https://github.com/user-attachments/assets/f24a07a9-157b-4029-a213-ae70d68fa48b" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
